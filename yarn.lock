@@ -8226,9 +8226,9 @@ mem@^4.0.0:
     p-is-promise "^2.0.0"
 
 memfs@^2.9.4:
-  version "2.15.2"
-  resolved "https://registry.yarnpkg.com/memfs/-/memfs-2.15.2.tgz#199b64580cf849ea641d8fac81d96742bfebd26d"
-  integrity sha512-jFC2mc3Aa224nJB824vbJzuiksf3+wPjFSKrXS7bA3o3H0Yy4/bh0R1nAsQyL/P80PVyT56ZowQJ+NGniHWhVQ==
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/memfs/-/memfs-2.16.1.tgz#ef6ed9b24c7df07704758fce42431c3838291ffa"
+  integrity sha512-hOUIxeXPuDeryPx1h+WxkBWJwWmd8f1lYXBdUMFMLEhxGGlaP6ri30eW9K4cMpbuizNsAwQe2SK3KyRa9qodXw==
   dependencies:
     fast-extend "0.0.2"
     fs-monkey "^0.3.3"
